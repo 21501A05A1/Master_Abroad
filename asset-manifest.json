@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Master_Abroad/static/css/main.bde55051.css",
-    "main.js": "/Master_Abroad/static/js/main.c2c2fe59.js",
+    "main.js": "/Master_Abroad/static/js/main.fd432d8e.js",
     "static/js/592.599f76a2.chunk.js": "/Master_Abroad/static/js/592.599f76a2.chunk.js",
     "static/media/contactphoto.jpg": "/Master_Abroad/static/media/contactphoto.b432bf1ebe8ccabbaa0d.jpg",
     "static/media/logo.svg": "/Master_Abroad/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Master_Abroad/index.html",
     "main.bde55051.css.map": "/Master_Abroad/static/css/main.bde55051.css.map",
-    "main.c2c2fe59.js.map": "/Master_Abroad/static/js/main.c2c2fe59.js.map",
+    "main.fd432d8e.js.map": "/Master_Abroad/static/js/main.fd432d8e.js.map",
     "592.599f76a2.chunk.js.map": "/Master_Abroad/static/js/592.599f76a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bde55051.css",
-    "static/js/main.c2c2fe59.js"
+    "static/js/main.fd432d8e.js"
   ]
 }
